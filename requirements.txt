@@ -1,0 +1,10 @@
+Werbpack (imports/exports)
+    Babel
+    Scss
+    Eslint
+    2 modes:
+        -Dev
+            Dev server, Sours maps, Eslint, not mimified JS & CSS
+        -Prod
+            Minified code
+Git
